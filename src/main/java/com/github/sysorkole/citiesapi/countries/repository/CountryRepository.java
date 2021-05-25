@@ -1,4 +1,4 @@
-package com.github.sysorkole.citiesapi.repositary;
+package com.github.sysorkole.citiesapi.countries.repository;
 
 import com.github.sysorkole.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
