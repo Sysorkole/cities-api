@@ -1,8 +1,6 @@
 package com.github.sysorkole.citiesapi.cities.distances.service;
-
 import java.util.Arrays;
 import java.util.List;
-
 import com.github.sysorkole.citiesapi.cities.City;
 import com.github.sysorkole.citiesapi.cities.repository.CityRepository;
 import org.slf4j.Logger;
